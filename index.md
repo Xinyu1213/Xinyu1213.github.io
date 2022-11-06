@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a sophomore student at School of Future Science and Engineering of Soochow University which located in Suzhou, Jiangsu Province, China.
+I am a sophomore student at [School of Future Science and Engineering of Soochow University(http://future.suda.edu.cn/bkzs/main.htm)] which located in Suzhou, Jiangsu Province, China.
 
 ## Research Interests
 
