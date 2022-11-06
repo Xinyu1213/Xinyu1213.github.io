@@ -23,15 +23,15 @@ reference algorithms
 
 - **There are 🈚️ Projects yet...**
 
-<!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**   我把它注释掉了，等有项目了再加，保留了源代码
+- **Research and implementation of image classification and target detection algorithm for end-to-end learning**   我把它注释掉了，等有项目了再加，保留了源代码
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Xinyu Yang**, Junfei Yang, Mingwei Xu, Haoquan Hu, Yunyan Lin
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
   <br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+<?-- - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**。我把它注释掉了，等有项目了再加，保留了源代码
   <br>
   Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
   <br>
