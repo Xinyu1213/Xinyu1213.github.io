@@ -21,7 +21,6 @@ reference algorithms
 
 ## Projects
 
-- **There are 🈚️ Projects yet...**
 
 - **Research and implementation of image classification and target detection algorithm for end-to-end learning**
   <br>
